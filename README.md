@@ -7,5 +7,5 @@
 - [Excalidraw](https://excalidraw.com/)
 
 ### Blogs
-- [offbyone](https://offbyone.us/)
+- [_off-by-one](https://offbyone.us/)
 - [Modern Adversary](https://modernadversary.com/writing-index)
