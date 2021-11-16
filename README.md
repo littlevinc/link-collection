@@ -6,6 +6,7 @@
 - [Obsidian](https://obsidian.md/)
 - [Excalidraw](https://excalidraw.com/)
 
-### Blogs
+### Blogs / Forums
+- [Hacker News](https://news.ycombinator.com/)
 - [_off-by-one](https://offbyone.us/)
 - [Modern Adversary](https://modernadversary.com/writing-index)
