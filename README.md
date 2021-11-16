@@ -10,3 +10,6 @@
 - [Hacker News](https://news.ycombinator.com/)
 - [_off-by-one](https://offbyone.us/)
 - [Modern Adversary](https://modernadversary.com/writing-index)
+
+### InfoSec / Penetration-Testing / Hacking
+- [HackTheBox Writeups](https://github.com/Hackplayers/hackthebox-writeups)
