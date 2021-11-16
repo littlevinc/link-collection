@@ -2,6 +2,6 @@
 
 
 ## Note takeing tools
-- [Notion]https://www.notion.so/
-- [Obsidian]https://obsidian.md/
-- [Excalidraw]https://excalidraw.com/
+- [Notion](https://www.notion.so/)
+- [Obsidian](https://obsidian.md/)
+- [Excalidraw](https://excalidraw.com/)
