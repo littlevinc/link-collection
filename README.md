@@ -20,7 +20,7 @@
 
 ### Forums
 - [Hacker News](https://news.ycombinator.com/)
-- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) - subreddit for programming
 
 
 ## Information Security
