@@ -1,15 +1,32 @@
 # D's get degrees Wiki
 
 
-### Note takeing tools
+## Tools
+
+### Note Taking
 - [Notion](https://www.notion.so/)
 - [Obsidian](https://obsidian.md/)
-- [Excalidraw](https://excalidraw.com/)
+- [Asciidoctor](https://asciidoctor.org/)
 
-### Blogs / Forums
-- [Hacker News](https://news.ycombinator.com/)
+### Drawing and Graphics
+- [Excalidraw](https://excalidraw.com/)
+- [PaP Designer](http://friedrich-folkmann.de/papdesigner/Hauptseite.html)
+
+## Media
+
+### Blogs
 - [_off-by-one](https://offbyone.us/)
 - [Modern Adversary](https://modernadversary.com/writing-index)
 
-### InfoSec / Penetration-Testing / Hacking
+### Forums
+- [Hacker News](https://news.ycombinator.com/)
+- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+
+
+## Information Security
 - [HackTheBox Writeups](https://github.com/Hackplayers/hackthebox-writeups)
+
+
+### Knowledge
+- [Electronic Frontier Foundation](https://www.eff.org/)
+
