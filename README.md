@@ -12,21 +12,14 @@
 - [Excalidraw](https://excalidraw.com/)
 - [PaP Designer](http://friedrich-folkmann.de/papdesigner/Hauptseite.html)
 
-## Media
+## InfoSec
 
-### Blogs
+
 - [_off-by-one](https://offbyone.us/)
 - [Modern Adversary](https://modernadversary.com/writing-index)
-
-### Forums
 - [Hacker News](https://news.ycombinator.com/)
 - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) - subreddit for programming
-
-
-## Information Security
 - [HackTheBox Writeups](https://github.com/Hackplayers/hackthebox-writeups)
-
-
-### Knowledge
 - [Electronic Frontier Foundation](https://www.eff.org/)
+- [WIRED Security](https://www.wired.com/category/security/)
 
