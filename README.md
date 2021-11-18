@@ -1,6 +1,6 @@
 # A Wiki For Every Nerd
 
-^Cyber warfare is as much about psychological strategy as technical prowess.
+> Cyber warfare is as much about psychological strategy as technical prowess.
 
 ## Tools
 - [Notion](https://www.notion.so/)
