@@ -1,20 +1,16 @@
-# D's get degrees Wiki
+# A Wiki For Every Nerd
 
+^Cyber warfare is as much about psychological strategy as technical prowess.
 
 ## Tools
-
-### Note Taking
 - [Notion](https://www.notion.so/)
 - [Obsidian](https://obsidian.md/)
 - [Asciidoctor](https://asciidoctor.org/)
-
-### Drawing and Graphics
 - [Excalidraw](https://excalidraw.com/)
-- [PaP Designer](http://friedrich-folkmann.de/papdesigner/Hauptseite.html)
+- [Wireshark](https://www.wireshark.org/)
+- [Angry IP Scanner](https://angryip.org/)
 
-## InfoSec
-
-
+## Knowledge
 - [_off-by-one](https://offbyone.us/)
 - [Modern Adversary](https://modernadversary.com/writing-index)
 - [Hacker News](https://news.ycombinator.com/)
