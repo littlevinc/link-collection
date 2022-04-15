@@ -1,4 +1,4 @@
-# A Wiki For Every Nerd
+# A collection of cool writeups and tools I've collected over the years
 
 > Cyber warfare is as much about psychological strategy as technical prowess.
 
